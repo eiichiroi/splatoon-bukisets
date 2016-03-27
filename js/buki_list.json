@@ -1,0 +1,1556 @@
+[
+  {
+    "main_weapon": {
+      "name": "わかばシューター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A4%EF%A4%AB%A4%D0%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.061094708153531685
+  },
+  {
+    "main_weapon": {
+      "name": "もみじシューター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A4%E2%A4%DF%A4%B8%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイズンボール",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PoisonBall.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.003331062154591566
+  },
+  {
+    "main_weapon": {
+      "name": "スプラシューター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush-%A5%AF%A5%A4%A5%C3%A5%AF.png",
+      "width": 80,
+      "height": 80
+    },
+    "popularity": 0.006662124309183132
+  },
+  {
+    "main_weapon": {
+      "name": "スプラシューターコラボ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC%A5%B3%A5%E9%A5%DC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.10470133999545764
+  },
+  {
+    "main_weapon": {
+      "name": "ヒーローシューター レプリカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D2%A1%BC%A5%ED%A1%BC%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC%A5%EC%A5%D7%A5%EA%A5%AB.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush-%A5%AF%A5%A4%A5%C3%A5%AF.png",
+      "width": 80,
+      "height": 80
+    },
+    "popularity": 0.0028011204481792717
+  },
+  {
+    "main_weapon": {
+      "name": "オクタシューター レプリカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%AA%A5%AF%A5%BF%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC%A5%EC%A5%D7%A5%EA%A5%AB.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.05632523279582103
+  },
+  {
+    "main_weapon": {
+      "name": "プライムシューター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D7%A5%E9%A5%A4%A5%E0%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.007494889847831024
+  },
+  {
+    "main_weapon": {
+      "name": "プライムシューターコラボ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D7%A5%E9%A5%A4%A5%E0%A5%B7%A5%E5%A1%BC%A5%BF%A1%BC%A5%B3%A5%E9%A5%DC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイントセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PointSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.0034824740707093647
+  },
+  {
+    "main_weapon": {
+      "name": "シャープマーカー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B7%A5%E3%A1%BC%A5%D7%A5%DE%A1%BC%A5%AB%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush-%A5%AD%A5%E5%A1%BC%A5%D0%A5%F3.png",
+      "width": 80,
+      "height": 80
+    },
+    "popularity": 0.016655310772957833
+  },
+  {
+    "main_weapon": {
+      "name": "シャープマーカーネオ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B7%A5%E3%A1%BC%A5%D7%A5%DE%A1%BC%A5%AB%A1%BC%A5%CD%A5%AA.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.006435006435006435
+  },
+  {
+    "main_weapon": {
+      "name": "ボールドマーカー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%DC%A1%BC%A5%EB%A5%C9%A5%DE%A1%BC%A5%AB%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ジャンプビーコン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-JampBeacon.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.014232720115073056
+  },
+  {
+    "main_weapon": {
+      "name": "ボールドマーカーネオ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%DC%A1%BC%A5%EB%A5%C9%A5%DE%A1%BC%A5%AB%A1%BC%A5%CD%A5%AA.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイントセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PointSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.012264365205541677
+  },
+  {
+    "main_weapon": {
+      "name": "プロモデラーMG",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D7%A5%ED%A5%E2%A5%C7%A5%E9%A1%BCMG.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "チェイスボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-ChaseBom.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.00393670981906276
+  },
+  {
+    "main_weapon": {
+      "name": "プロモデラーRG",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D7%A5%ED%A5%E2%A5%C7%A5%E9%A1%BCRG.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "トラップ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Trap.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.008100537512302218
+  },
+  {
+    "main_weapon": {
+      "name": "N-ZAP85",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-N-ZAP85.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.014989779695662049
+  },
+  {
+    "main_weapon": {
+      "name": "N-ZAP89",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-N-ZAP89.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプリンクラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Sprinkler.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.014611249905367553
+  },
+  {
+    "main_weapon": {
+      "name": ".52ガロン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-52%A5%AC%A5%ED%A5%F3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュシールド",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-SplashShield.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.07320766144295555
+  },
+  {
+    "main_weapon": {
+      "name": ".52ガロンデコ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-52%A5%AC%A5%ED%A5%F3%A5%C7%A5%B3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "チェイスボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-ChaseBom.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.006813536225300931
+  },
+  {
+    "main_weapon": {
+      "name": ".96ガロン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-96%A5%AC%A5%ED%A5%F3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプリンクラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Sprinkler.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.005450828980240745
+  },
+  {
+    "main_weapon": {
+      "name": ".96ガロンデコ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-96%A5%AC%A5%ED%A5%F3%A5%C7%A5%B3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュシールド",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-SplashShield.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.06200317965023847
+  },
+  {
+    "main_weapon": {
+      "name": "ジェットスイーパー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B8%A5%A7%A5%C3%A5%C8%A5%B9%A5%A4%A1%BC%A5%D1%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュシールド",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-SplashShield.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.0014384132031190855
+  },
+  {
+    "main_weapon": {
+      "name": "ジェットスイーパーカスタム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B8%A5%A7%A5%C3%A5%C8%A5%B9%A5%A4%A1%BC%A5%D1%A1%BC%A5%AB%A5%B9%A5%BF%A5%E0.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.004163827693239458
+  },
+  {
+    "main_weapon": {
+      "name": "デュアルスイーパー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%C7%A5%E5%A5%A2%A5%EB%A5%B9%A5%A4%A1%BC%A5%D1%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.011810129457188281
+  },
+  {
+    "main_weapon": {
+      "name": "デュアルスイーパーカスタム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%C7%A5%E5%A5%A2%A5%EB%A5%B9%A5%A4%A1%BC%A5%D1%A1%BC%A5%AB%A5%B9%A5%BF%A5%E0.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ジャンプビーコン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-JampBeacon.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.004466651525475055
+  },
+  {
+    "main_weapon": {
+      "name": "L3リールガン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-L3%A5%EA%A1%BC%A5%EB%A5%AC%A5%F3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイズンボール",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PoisonBall.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.002346884699825876
+  },
+  {
+    "main_weapon": {
+      "name": "L3リールガンD",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-L3%A5%EA%A1%BC%A5%EB%A5%AC%A5%F3D.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.007192066015595427
+  },
+  {
+    "main_weapon": {
+      "name": "H3リールガン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-H3%A5%EA%A1%BC%A5%EB%A5%AC%A5%F3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.0018169429934135816
+  },
+  {
+    "main_weapon": {
+      "name": "H3リールガンD",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-H3%A5%EA%A1%BC%A5%EB%A5%AC%A5%F3D.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイントセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PointSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.00098417745476569
+  },
+  {
+    "main_weapon": {
+      "name": "ホットブラスター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%DB%A5%C3%A5%C8%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイズンボール",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PoisonBall.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.001892648951472481
+  },
+  {
+    "main_weapon": {
+      "name": "ホットブラスターカスタム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%DB%A5%C3%A5%C8%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC%A5%AB%A5%B9%A5%BF%A5%E0.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイントセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PointSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.013399954576425165
+  },
+  {
+    "main_weapon": {
+      "name": "ロングブラスター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%ED%A5%F3%A5%B0%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュシールド",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-SplashShield.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.001287001287001287
+  },
+  {
+    "main_weapon": {
+      "name": "ロングブラスターカスタム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%ED%A5%F3%A5%B0%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC%A5%AB%A5%B9%A5%BF%A5%E0.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.010523128170186994
+  },
+  {
+    "main_weapon": {
+      "name": "ノヴァブラスター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%CE%A5%F4%A5%A1%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "トラップ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Trap.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.0050722991899462486
+  },
+  {
+    "main_weapon": {
+      "name": "ノヴァブラスターネオ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%CE%A5%F4%A5%A1%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC%A5%CD%A5%AA.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.036414565826330535
+  },
+  {
+    "main_weapon": {
+      "name": "ラピッドブラスター",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%E9%A5%D4%A5%C3%A5%C9%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "トラップ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Trap.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.005299417064122946
+  },
+  {
+    "main_weapon": {
+      "name": "ラピッドブラスターデコ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%E9%A5%D4%A5%C3%A5%C9%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC%A5%C7%A5%B3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush-%A5%AD%A5%E5%A1%BC%A5%D0%A5%F3.png",
+      "width": 80,
+      "height": 80
+    },
+    "popularity": 0.001665531077295783
+  },
+  {
+    "main_weapon": {
+      "name": "Rブラスターエリート",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-R%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC%A5%A8%A5%EA%A1%BC%A5%C8.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "チェイスボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-ChaseBom.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.0011355893708834886
+  },
+  {
+    "main_weapon": {
+      "name": "Rブラスターエリートデコ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-R%A5%D6%A5%E9%A5%B9%A5%BF%A1%BC%A5%A8%A5%EA%A1%BC%A5%C8%A5%C7%A5%B3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイズンボール",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PoisonBall.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.001287001287001287
+  },
+  {
+    "main_weapon": {
+      "name": "スプラローラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%ED%A1%BC%A5%E9%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.006359300476947536
+  },
+  {
+    "main_weapon": {
+      "name": "スプラローラーコラボ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%ED%A1%BC%A5%E9%A1%BC%A5%B3%A5%E9%A5%DC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ジャンプビーコン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-JampBeacon.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.040729805435687785
+  },
+  {
+    "main_weapon": {
+      "name": "ヒーローローラー レプリカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D2%A1%BC%A5%ED%A1%BC%A5%ED%A1%BC%A5%E9%A1%BC%A5%EC%A5%D7%A5%EA%A5%AB.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.0017412370353546824
+  },
+  {
+    "main_weapon": {
+      "name": "カーボンローラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%AB%A1%BC%A5%DC%A5%F3%A5%ED%A1%BC%A5%E9%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.024377318494965553
+  },
+  {
+    "main_weapon": {
+      "name": "カーボンローラーデコ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%AB%A1%BC%A5%DC%A5%F3%A5%ED%A1%BC%A5%E9%A1%BC%A5%C7%A5%B3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "チェイスボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-ChaseBom.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush-%A5%C1%A5%A7%A5%A4%A5%B9.png",
+      "width": 80,
+      "height": 80
+    },
+    "popularity": 0.0037095919448860626
+  },
+  {
+    "main_weapon": {
+      "name": "ダイナモローラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%C0%A5%A4%A5%CA%A5%E2%A5%ED%A1%BC%A5%E9%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプリンクラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Sprinkler.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.04739192974487092
+  },
+  {
+    "main_weapon": {
+      "name": "ダイナモローラーテスラ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%C0%A5%A4%A5%CA%A5%E2%A5%ED%A1%BC%A5%E9%A1%BC%A5%C6%A5%B9%A5%E9.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.014611249905367553
+  },
+  {
+    "main_weapon": {
+      "name": "パブロ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D1%A5%D6%A5%ED.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプリンクラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Sprinkler.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.010144598379892497
+  },
+  {
+    "main_weapon": {
+      "name": "パブロ・ヒュー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D1%A5%D6%A5%ED%A1%A6%A5%D2%A5%E5%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "トラップ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Trap.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.002574002574002574
+  },
+  {
+    "main_weapon": {
+      "name": "ホクサイ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%DB%A5%AF%A5%B5%A5%A4.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ジャンプビーコン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-JampBeacon.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.010068892421833599
+  },
+  {
+    "main_weapon": {
+      "name": "ホクサイ・ヒュー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%DB%A5%AF%A5%B5%A5%A4%A1%A6%A5%D2%A5%E5%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.0034067681126504655
+  },
+  {
+    "main_weapon": {
+      "name": "スプラチャージャー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%C1%A5%E3%A1%BC%A5%B8%A5%E3%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.004315239609357257
+  },
+  {
+    "main_weapon": {
+      "name": "スプラスコープ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%B9%A5%B3%A1%BC%A5%D7.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.018018018018018018
+  },
+  {
+    "main_weapon": {
+      "name": "ヒーローチャージャー レプリカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D2%A1%BC%A5%ED%A1%BC%A5%C1%A5%E3%A1%BC%A5%B8%A5%E3%A1%BC%A5%EC%A5%D7%A5%EA%A5%AB.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.004466651525475055
+  },
+  {
+    "main_weapon": {
+      "name": "スプラチャージャーワカメ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%C1%A5%E3%A1%BC%A5%B8%A5%E3%A1%BC%A5%EF%A5%AB%A5%E1.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプリンクラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Sprinkler.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.0050722991899462486
+  },
+  {
+    "main_weapon": {
+      "name": "スプラスコープワカメ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%B9%A5%B3%A1%BC%A5%D7%A5%EF%A5%AB%A5%E1.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプリンクラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Sprinkler.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.01589825119236884
+  },
+  {
+    "main_weapon": {
+      "name": "リッター3K",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%EA%A5%C3%A5%BF%A1%BC3K.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.010598834128245893
+  },
+  {
+    "main_weapon": {
+      "name": "3Kスコープ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-3K%A5%B9%A5%B3%A1%BC%A5%D7.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.05617382087970323
+  },
+  {
+    "main_weapon": {
+      "name": "リッター3Kカスタム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%EA%A5%C3%A5%BF%A1%BC3K%A5%AB%A5%B9%A5%BF%A5%E0.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ジャンプビーコン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-JampBeacon.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.005223711106064047
+  },
+  {
+    "main_weapon": {
+      "name": "3Kスコープカスタム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-3K%A5%B9%A5%B3%A1%BC%A5%D7%A5%AB%A5%B9%A5%BF%A5%E0.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ジャンプビーコン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-JampBeacon.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.021197668256491786
+  },
+  {
+    "main_weapon": {
+      "name": "スクイックリンα",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%AF%A5%A4%A5%C3%A5%AF%A5%EA%A5%F3%A6%C1.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイントセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PointSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.0077977136800666215
+  },
+  {
+    "main_weapon": {
+      "name": "スクイックリンβ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%AF%A5%A4%A5%C3%A5%AF%A5%EA%A5%F3%A6%C2.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "トラップ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Trap.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.002649708532061473
+  },
+  {
+    "main_weapon": {
+      "name": "14式竹筒銃・甲",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-14%BC%B0%C3%DD%C5%FB%BD%C6%A1%A6%B9%C3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュシールド",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-SplashShield.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "メガホンレーザー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-MegaphoneLaser.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.007419183889772125
+  },
+  {
+    "main_weapon": {
+      "name": "14式竹筒銃・乙",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-14%BC%B0%C3%DD%C5%FB%BD%C6%A1%A6%B2%B5.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイズンボール",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PoisonBall.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.001892648951472481
+  },
+  {
+    "main_weapon": {
+      "name": "バケットスロッシャー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D0%A5%B1%A5%C3%A5%C8%A5%B9%A5%ED%A5%C3%A5%B7%A5%E3%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "クイックボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%AF%A5%A4%A5%C3%A5%AF%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.01090165796048149
+  },
+  {
+    "main_weapon": {
+      "name": "バケットスロッシャーデコ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D0%A5%B1%A5%C3%A5%C8%A5%B9%A5%ED%A5%C3%A5%B7%A5%E3%A1%BC%A5%C7%A5%B3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュシールド",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-SplashShield.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.002876826406238171
+  },
+  {
+    "main_weapon": {
+      "name": "ヒッセン",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D2%A5%C3%A5%BB%A5%F3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイズンボール",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PoisonBall.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.013627072450601862
+  },
+  {
+    "main_weapon": {
+      "name": "ヒッセン・ヒュー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D2%A5%C3%A5%BB%A5%F3%A1%A6%A5%D2%A5%E5%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "チェイスボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-ChaseBom.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.00098417745476569
+  },
+  {
+    "main_weapon": {
+      "name": "スクリュースロッシャー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%AF%A5%EA%A5%E5%A1%BC%A5%B9%A5%ED%A5%C3%A5%B7%A5%E3%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ボムラッシュ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-BomRush.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.0056022408963585435
+  },
+  {
+    "main_weapon": {
+      "name": "スクリュースロッシャーネオ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%AF%A5%EA%A5%E5%A1%BC%A5%B9%A5%ED%A5%C3%A5%B7%A5%E3%A1%BC%A5%CD%A5%AA.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイントセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PointSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.0009084714967067908
+  },
+  {
+    "main_weapon": {
+      "name": "バレルスピナー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D0%A5%EC%A5%EB%A5%B9%A5%D4%A5%CA%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュシールド",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-SplashShield.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "トルネード",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Tornado.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.006207888560829738
+  },
+  {
+    "main_weapon": {
+      "name": "バレルスピナーデコ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%D0%A5%EC%A5%EB%A5%B9%A5%D4%A5%CA%A1%BC%A5%C7%A5%B3.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイントセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PointSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "ダイオウイカ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-GiantSquid.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.015519721402074343
+  },
+  {
+    "main_weapon": {
+      "name": "スプラスピナー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%B9%A5%D4%A5%CA%A1%BC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "キューバンボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-CubanBom.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーショット",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperShot.jpg",
+      "width": 81,
+      "height": 79
+    },
+    "popularity": 0.0017412370353546824
+  },
+  {
+    "main_weapon": {
+      "name": "スプラスピナーコラボ",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%B9%A5%D7%A5%E9%A5%B9%A5%D4%A5%CA%A1%BC%A5%B3%A5%E9%A5%DC.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "ポイズンボール",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-PoisonBall.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.014914073737603149
+  },
+  {
+    "main_weapon": {
+      "name": "ハイドラント",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%CF%A5%A4%A5%C9%A5%E9%A5%F3%A5%C8.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプラッシュボム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%D7%A5%E9%A5%C3%A5%B7%A5%E5%A5%DC%A5%E0.png",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "スーパーセンサー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-SuperSensor.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.0015141191611779848
+  },
+  {
+    "main_weapon": {
+      "name": "ハイドラントカスタム",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD&src=%A5%D6%A5%AD-%A5%E1%A5%A4%A5%F3-%A5%CF%A5%A4%A5%C9%A5%E9%A5%F3%A5%C8%A5%AB%A5%B9%A5%BF%A5%E0.png",
+      "width": 128,
+      "height": 128
+    },
+    "sub_weapon": {
+      "name": "スプリンクラー",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%D6%A5%AD%2F%A5%B5%A5%D6%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B5%A5%D6-Sprinkler.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "special_weapon": {
+      "name": "バリア",
+      "url": "http://wikiwiki.jp/splatoon2ch/?plugin=ref&page=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB%A5%A6%A5%A7%A5%DD%A5%F3&src=%A5%B9%A5%DA%A5%B7%A5%E3%A5%EB-Barrier.jpg",
+      "width": 80,
+      "height": 79
+    },
+    "popularity": 0.002574002574002574
+  }
+]
