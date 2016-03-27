@@ -63,11 +63,11 @@ function formatBuki(bukiList, indices, index) {
 }
 
 function getBukiList() {
+    var buki_list = [];
     $.getJSON('js/buki_list.json', function(data) {
-	return data;
-    }).error(function(jqXHR, textStatus, errorThrown) {
-	return [];
+	buki_list = data;
     });
+    return buki_list;
 }
 
 function range(from, to) {
